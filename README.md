@@ -1,6 +1,7 @@
 # Audio-Manager-MultiClient-MultiServer
 
-Audio File Manager An application that manages your personal music collection. Each song will have the following properties: title, genre and rating. The program  allows: - adding / deleting entries in the collection - the data will be read from the keyboard; customized exceptions will be generated for non-valid data; - saving / restoring information to a file;  
+Audio File Manager An application that manages your personal music collection.   
+Each song will have the following properties: title, genre and rating. The program  allows: - adding / deleting entries in the collection - the data will be read from the keyboard ,customized exceptions will be generated for non-valid data.   
 Adding, modifying songs will be done through a modal dialog window.  
 Storing data and reading data from database(MariaDB).   
 The project is multi client multi server and also uses threads.   
